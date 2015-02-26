@@ -1,0 +1,33 @@
+#authorBox{
+	padding: 10px 10px 10px 10px;
+	clear:both;
+	border:1px solid black;
+	overflow:hidden;
+}
+#authorBoxLeft{
+	float:left;
+  	width:30%;
+}
+
+authorBoxRight{
+	float:left;
+}
+
+#authorBoxTitle{
+	font-size:24px;
+	text-align:center;
+}
+
+#authorBoxDescription{
+	float:left;
+	width:69%
+}
+
+#authorBoxImage{
+	width:100px;
+}
+
+#authorBoxName {
+  font-family: Arial;
+  font-size:small;
+}
