@@ -16,7 +16,7 @@ An easy way to place an author box on your Wordpress site.
 
 ###Quick Start Guide
 
-* [author box creator quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/author_box_creator/)
+* [author box creator quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/author_box_creator/)
 
 ###What you get when you use the Author Box Creator
 
@@ -35,6 +35,9 @@ Author Box Creator automatically places your author box at the bottom of each po
 You can also edit the author box title.  There is a default title in the author box if you do not want to add your own.
 
 You can also edit the author box background color.
+
+###Why you need an author box
+There are subtle differences that make one blog standout from the other.  Having an author box at the end of each post allows you to showcase which author wrote the article.  The author is given credit in the author box and the audience gets a sense of who it is that is speaking to them.
 
 ###Quick Start Guide
 
