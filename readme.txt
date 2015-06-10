@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags:   author bio, author box, author description, author profile, author profile fields, author social icons, post author, Profile Fields, responsive author box, rtl author box, user profile, about the author plugin, author bio plugin, author biography, author box, authors plugin
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
